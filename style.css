@@ -1,0 +1,28 @@
+span {
+    color: aquamarine;
+    font-style: italic;
+}
+
+h1 {
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 1.5rem;
+    padding-left: 5vh;
+}
+
+ol > li {
+    text-align: center;
+    align-items: center;
+    color: aliceblue;
+    font-size: 1em;
+    list-style-position: inside;
+}
+
+body {
+    background-color: black;
+}
+
+
+section {
+    color: white;
+}
